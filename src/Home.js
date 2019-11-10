@@ -18,7 +18,12 @@ class Home extends Component{
                 </p>
               </div>
               <div class="card-action">
-                <Boton name="Comenzar" img="arrow_forward" link="#cuentas" type="btn waves-effect-large waves-light #4caf50 green"/>
+                <Boton
+                name="Comenzar"
+                img="arrow_forward"
+                link="#cuentas"
+                type="btn waves-effect-large waves-light #4caf50 green"
+                />
                 <br/>
                 <br/>
               </div>
